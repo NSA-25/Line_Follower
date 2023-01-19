@@ -32,3 +32,5 @@ Picture 2:
 
 Picture 3:
 ![image3](./images/setup_image_3.png)
+
+[Video where it follows a complex line](https://youtu.be/PQt3r07lQ-o)
