@@ -25,6 +25,6 @@ We participated in the organized hackathon, along other students to see who can 
 
 ## 🖼️ Pictures of the setup
 
-![setup_1](./images/)
-![setup_2](./images/)
-![setup_3](./images/)
+![setup_image_1](./images/)
+![setup_image_2](./images/)
+![setup_image_3](./images/)
