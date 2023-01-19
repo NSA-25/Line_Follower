@@ -24,7 +24,11 @@ We participated in the organized hackathon, along other students to see who can 
 ⚙️ Wires - lots of them :)
 
 ## 🖼️ Pictures of the setup
-
+Picture 1:
 ![image1](./images/setup_image_1.jpg)
+
+Picture 2:
 ![image2](./images/setup_image_2.jpg)
+
+Picture 3:
 ![image3](./images/setup_image_3.png)
