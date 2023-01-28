@@ -28,6 +28,6 @@ Picture 1:
 ![image1](./images/setup_image_1.jpg)
 
 Picture 2:
-![image2](./images/setup_image_2.png)
+![image2](./images/setup_image_2.jpg)
 
 [Video where it follows a complex line](https://youtu.be/PQt3r07lQ-o)
