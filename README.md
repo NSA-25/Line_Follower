@@ -28,8 +28,8 @@ White LED - 1\
 Wires - a lot
 
 ## Pictures of the setup
-Picture 1:
-![image1](./images/setup_image_1.jpg)
+Picture 1:\
+![image1](./images/setup_image.jpg)
 
 Picture 2:
 ![image2](./images/setup_image_2.jpeg)
